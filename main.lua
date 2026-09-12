@@ -1,1 +1,1 @@
-
+print("Loadstring đã chạy!")
